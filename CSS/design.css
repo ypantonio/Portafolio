@@ -1,0 +1,112 @@
+*{
+    margin: 0px auto;
+    padding: 0px;
+}
+header{
+    width: 1365px;
+    height: 70px;
+    margin: auto;
+    background-color: #1c2b2d;
+}
+section{
+     width: 1000px;
+    height: 599px;
+    margin: 50px auto;
+    background-color:white;
+}
+.sec{
+    width: 1000px;
+    height: 999px;
+}
+.sector{
+     width: 1000px;
+    height: 140px;
+    margin: 50px auto;
+    background-color:white;
+}
+.titulo{
+    font-family: Century Gothic, sans-serif;
+    font-size: 45px;
+    color:white;
+    text-align: center;
+}
+.tabla{
+    border-color: black;
+    width: 700px;
+    height: 100px;
+}
+.titulo2{
+    text-align: center;
+    font-size: 20px;
+    background-color: #1f6f8b;
+    font-family: Century Gothic, sans-serif;
+}
+.parrafo{
+    text-align: justify;
+    font-family: Century Gothic, sans-serif;
+    font-size: 15px;
+}
+.sub{
+    background-color: #99a8b2;
+    font-family: Century Gothic, sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+.lista1{
+     font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;;
+    font-size: 15px;
+}
+.sub2{
+    background-color: #e6d5b8;
+    font-family: Century Gothic, sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+.sub3{
+     background-color: #99a8b2;
+    font-family: Century Gothic, sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+.imagen1{
+    width: 700px;
+}
+.imagen2{
+    width: 500px;
+}
+.atributo{
+    height: 150px;
+    width: 150px;
+}
+.atributo2{
+    width: 150px;
+    height: 150px;
+}
+.atributo3{
+    width: 500px;
+    height: 500px;
+}
+footer{
+     font-family: Century Gothic, sans-serif;
+    font-size: 19px;
+    color:white;
+    text-align: center;
+    background-color:  #1c2b2d;
+    width:  1365px;
+    height: 50px;
+}
+.parrafo2{
+    text-align: left;
+}
+.imagen3{
+    width: 900px;
+    height: 150px;
+}
+.lista2{
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;;
+    font-size: 15px;
+}
+.lista3{
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;;
+    font-size: 15px;
+}
