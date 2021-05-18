@@ -1,0 +1,90 @@
+.titulo{
+    text-align: center;
+    font-family: Copperplate / Copperplate Gothic Light, sans-serif;
+    font-size: 55px;
+    color: #1e212d;
+    
+}
+section{
+    width: 900px;
+    height: auto;
+    margin: 20px auto;
+    background-color: white;
+    font-family:  'Courier New ', Courier, monospace;
+    text-align: justify-all;
+    font-size: 16px;
+}
+.caja{
+    display: block;
+    
+}
+.cont{
+    min-height:inherit;
+    height: auto;
+    margin-top: 2em;
+    overflow: hidden;
+    transition: 1s;
+}
+h3{
+    text-align: center;
+    background-color:#f6d186;
+    font-family: 'Lucida Console', Monaco, monospace;
+    font-size: 17px; 
+}
+.imagen{
+    width: 450px;
+    height: 150px;
+}
+.imagen2{
+    width: 300px;
+    height: 250px;
+}
+.img{
+    width: 600px;
+    height: 250px;
+}
+.imagen3{
+    width: 300px;
+    height: 150px;
+}
+.imagen4{
+    width: 350px;
+    height: 200px;
+}
+.imagen5{
+    width: 500px;
+    height: 200px;
+}
+.imagen6{
+    width: 290px;
+    height: 250px;
+}
+.imagen7{
+    width: 400px;
+    height: 200px;
+}
+.imagen8{
+    width: 400px;
+    height: 250px;
+}
+.vista{
+    width: 15em;
+    height: 11em;
+    border-radius: 5px;
+    background-color: gray;
+    float:left;
+    margin: 2em 1.5em;
+    transition: 0.3s;
+    box-shadow: 0px ;
+    
+}
+.vista img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 5px;
+}
+.border{
+    width: 250px;
+    height: 200px;
+}

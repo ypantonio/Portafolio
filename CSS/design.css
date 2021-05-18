@@ -1,0 +1,42 @@
+section{
+    background-color: #E8EAEA;
+}
+.banner{
+    background-image: url(../img/fondoFlor.jpg);
+    background-size: cover;
+    width: auto;
+    height: 515px;
+    padding: 49px 0px 0px 7px;
+}
+.banner > .cajaiz > h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: black;
+    padding: 15px;
+    
+}
+.banner> .cajaiz > p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color: black;
+    padding: 15px;
+}
+.banner > .cajaiz > a{
+    color: black;
+    margin: 25px;
+    padding: 15px 20px 15px 20px;
+    font-size: 15px;
+    font-family: Century Gothic, sans-serif;
+    text-decoration: none;
+    border-radius: 15px;
+    background-color:#F2E641;
+    
+
+    -webkit-box-shadow: 2px 20px 19px -10px rgba(0,0,0,0.75);
+-moz-box-shadow: 2px 20px 19px -10px rgba(0,0,0,0.75);
+box-shadow: 2px 20px 19px -10px rgba(0,0,0,0.75);
+}
+.banner > .cajaiz > a:hover{
+    background-color: #D96704;
+    transition: 0.5s;
+}
